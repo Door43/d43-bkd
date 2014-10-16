@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bkd:home|Door43 (bkd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bkd|d43-bkd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bkd/archive/master.zip|d43-bkd.zip]]
+
+**Recent Changes**
+{{changes>ns = bkd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bkd|Ethnologue data]]
+
